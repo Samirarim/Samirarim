@@ -10,7 +10,6 @@ I am a Full-Stack Developer with a strong academic foundation in Computer Scienc
 
 * 💻 I currently work at Siara Solution as a Junior Software Developer, building complex full-stack applications using React, Node.js, and PostgreSQL.
 * 🎓 I graduated Magna Cum Laude with a 3.88 CGPA in Computer Science and Engineering from American International University-Bangladesh (AIUB).
-* 🔬 I have contributed to the field through published research in deep learning and antenna design.
 * 🌱 I am currently seeking to pursue a Master's degree in Australia to deepen my technical expertise and contribute to the next wave of technological innovation.
 * 📫 Reach me via email at samirarim2000@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/samira-kabir-rima/).
 
@@ -19,6 +18,14 @@ I am a Full-Stack Developer with a strong academic foundation in Computer Scienc
 <a href="./Samira_Kabir_Rima_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄_Download_My_Resume-%23007ACC.svg?style=for-the-badge&logo=Read-the-Docs&logoColor=white" alt="Resume" />
 </a>
+
+---
+
+## 🔬 Published Research
+
+* **[A Low-Cost IoT and Machine Learning-Based Web Application for Smart Hydroponic Horticulture and Plant Disease Detection](https://www.researchgate.net/publication/402193082_A_Low-Cost_IoT_and_Machine_Learning-Based_Web_Application_for_Smart_Hydroponic_Horticulture_and_Plant_Disease_Detection)** *Proceedings of the 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), 2026*
+* **[Grey Blight Disease Detection on Tea Leaves Using Improved Deep Convolutional Neural Network](https://doi.org/10.1155/2023/7876302)** *Computational Intelligence and Neuroscience, 2023*
+* **[Design of Crossed Dipole Yagi-Uda MIMO Antenna for Radar Applications](https://doi.org/10.1155/2022/8157541)** *International Journal of Antennas and Propagation, 2022*
 
 ---
 
@@ -35,10 +42,3 @@ I am a Full-Stack Developer with a strong academic foundation in Computer Scienc
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samirarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>

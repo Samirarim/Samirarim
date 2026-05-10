@@ -14,11 +14,15 @@ I am a Full-Stack Developer with a strong academic foundation in Computer Scienc
 * 🌱 I am currently seeking to pursue a Master's degree in Australia to deepen my technical expertise and contribute to the next wave of technological innovation.
 * 📫 Reach me via email at samirarim2000@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/samira-kabir-rima/).
 
+<br>
+
+<a href="./Samira_Kabir_Rima_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Download_My_Resume-%23007ACC.svg?style=for-the-badge&logo=Read-the-Docs&logoColor=white" alt="Resume" />
+</a>
+
 ---
 
 ## 🛠 Tech Stack & Tools
-
-Here are some of the languages, frameworks, and databases I frequently work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -36,11 +40,6 @@ Here are some of the languages, frameworks, and databases I frequently work with
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samirarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Samirarim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Samira's Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samirarim&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Samira's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirarim&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </div>

@@ -35,5 +35,12 @@ Here are some of the languages, frameworks, and databases I frequently work with
 
 ## 📊 GitHub Analytics
 
-![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samirarim&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samirarim&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samirarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Samirarim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Samira's Trophies" />
+  </a>
+</div>

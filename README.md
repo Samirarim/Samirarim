@@ -1,4 +1,4 @@
-# [cite_start]Hi 👋, I'm Samira Kabir Rima
+# Hi 👋, I'm Samira Kabir Rima
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Published+Researcher;Software+Engineer" alt="Typing SVG" />
@@ -6,19 +6,19 @@
 
 ## 🚀 About Me
 
-[cite_start]I am a Full-Stack Developer [cite: 2] [cite_start]with a strong academic foundation in Computer Science[cite: 4]. [cite_start]I bridge the gap between robust industry practices and innovative research[cite: 4].
+I am a Full-Stack Developer with a strong academic foundation in Computer Science. I bridge the gap between robust industry practices and innovative research.
 
-* [cite_start]💻 I currently work at Siara Solution [cite: 13] [cite_start]as a Junior Software Developer [cite: 18][cite_start], building complex full-stack applications using React, Node.js, and PostgreSQL[cite: 6].
-* [cite_start]🎓 I graduated Magna Cum Laude [cite: 35] [cite_start]with a 3.88 CGPA [cite: 5] [cite_start]in Computer Science and Engineering from American International University-Bangladesh (AIUB)[cite: 25].
-* [cite_start]🔬 I have contributed to the field through published research in deep learning and antenna design[cite: 5].
-* [cite_start]🌱 I am currently seeking to pursue a Master's degree in Australia to deepen my technical expertise and contribute to the next wave of technological innovation[cite: 7].
-* [cite_start]📫 Reach me via email at samirarim2000@gmail.com [cite: 31] [cite_start]or connect with me on [LinkedIn](https://linkedin.com/in/samira-kabir-rima/)[cite: 33].
+* 💻 I currently work at Siara Solution as a Junior Software Developer, building complex full-stack applications using React, Node.js, and PostgreSQL.
+* 🎓 I graduated Magna Cum Laude with a 3.88 CGPA in Computer Science and Engineering from American International University-Bangladesh (AIUB).
+* 🔬 I have contributed to the field through published research in deep learning and antenna design.
+* 🌱 I am currently seeking to pursue a Master's degree in Australia to deepen my technical expertise and contribute to the next wave of technological innovation.
+* 📫 Reach me via email at samirarim2000@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/samira-kabir-rima/).
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-[cite_start]Here are some of the languages, frameworks, and databases I frequently work with[cite: 56]:
+Here are some of the languages, frameworks, and databases I frequently work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />

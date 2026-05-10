@@ -40,6 +40,5 @@ I am a Full-Stack Developer with a strong academic foundation in Computer Scienc
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samirarim&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Samira's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirarim&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samirarim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
